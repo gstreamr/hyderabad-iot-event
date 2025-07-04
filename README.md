@@ -229,6 +229,10 @@ The goal is to setup the Qualcomm Reference hardware provided and use QLI docume
 The goal is to setup the Qualcomm Reference hardware provided and use QLI documentation to perform video playback using GST commands.
 No documentation reference provided.Expect engineeer to  navigate to findout the instructions.
 
+#### References
+
+- [https://docs.qualcomm.com/bundle/publicresource/topics/80-70020-50/camera-and-video-encode.html?vproduct=1601111740013072&version=1.5&facet=Qualcomm%20Intelligent%20Multimedia%20SDK]
+
 #### Testing and Feedback  
 - Test the application on the RB3 Gen2 and provide your feedback.
 
@@ -237,6 +241,9 @@ No documentation reference provided.Expect engineeer to  navigate to findout the
 
 The goal is to setup the Qualcomm Reference hardware provided and use QLI documentation to perform  offline decode using v4l2 apps.
 No documentation reference provided.Expect engineeer to  navigate to findout the instructions.
+
+#### References
+- [https://github.com/quic/v4l-video-test-app]
 
 #### Testing and Feedback  
 - Test the application on the RB3 Gen2 and provide your feedback.
